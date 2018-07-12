@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-
+out/
 # Log file
 *.log
 
@@ -20,6 +20,7 @@
 
 .gradle
 /build/
+
 
 # Ignore Gradle GUI config
 gradle-app.setting
